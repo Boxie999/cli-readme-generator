@@ -34,6 +34,31 @@ const questions = [
         name: 'license',
         message: 'What is your project license type?'
     },  
+    {
+        type: 'input',
+        name: 'contribution',
+        message: 'How users you contribute to this project?'
+    },
+    {
+        type: 'input',
+        name: 'tests',
+        message: 'Tests that can be performed with this application.'
+    },
+    {
+        type: 'input',
+        name: 'questions',
+        message: 'Frequently asked questions about this application.'
+    },
+    {
+        type: 'input',
+        name: 'github',
+        message: 'What is the name of your gitHub profile?'
+    },
+    {
+        type: 'input',
+        name: 'mail',
+        message: 'What is your e-mail address?'
+    }
 
 ];
 
