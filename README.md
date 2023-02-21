@@ -6,4 +6,6 @@ It adds a table of content, and when the user clicks on a word it scrolls down t
 Tools used: node.js, command line interface, javascript ES6, node package manager, inquier.
 
 Here is a link to the video demonstration:
+https://www.youtube.com/watch?v=g3M3zjuyoEY
+
 
